@@ -4,6 +4,7 @@
         "author": "Test Author",
         "description": "Test Plugin",
         "image": "",
-        "version": "1.0"
+        "version": "1.0",
+        "minidescription": "Test Plugin"
     }
 }
