@@ -1,0 +1,9 @@
+{
+    "testplugin": {
+        "name": "Test Plugin",
+        "author": "Test Author",
+        "description": "Test Plugin",
+        "image": "",
+        "version": "1.0"
+    }
+}
