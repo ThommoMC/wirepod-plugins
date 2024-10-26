@@ -3,8 +3,18 @@
         "name": "Test Plugin",
         "author": "Test Author",
         "description": "Test Plugin",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/ThommoMC/wirepod-plugins/refs/heads/main/testpluginicon.png",
         "version": "1.0",
-        "minidescription": "Test Plugin"
+        "minidescription": "Test Plugin",
+        "download": "https://raw.githubusercontent.com/ThommoMC/wirepod-plugins/refs/heads/main/whatdate.go"
+    },
+    "testplugin2": {
+        "name": "Test Plugin 2",
+        "author": "Test Author 2",
+        "description": "Test Plugin 2",
+        "image": "https://raw.githubusercontent.com/ThommoMC/wirepod-plugins/refs/heads/main/testpluginicon.png",
+        "version": "2.0",
+        "minidescription": "Test Plugin 2",
+        "download": "https://raw.githubusercontent.com/ThommoMC/wirepod-plugins/refs/heads/main/whatdate.go"
     }
 }
